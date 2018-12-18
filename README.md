@@ -1,5 +1,5 @@
 <h1>DevMax Ionic 3 WooCommerce Hybrid Mobile App</h1>
-<p>DevMax is a hybrid mobile apps with WooCommerce backend. It uses WooCommerce REST Api To display products.</p>
+<p>DevMax is a hybrid mobile apps with WooCommerce backend. It uses WooCommerce REST Api To display product.</p>
 <br>
 <img src="https://i.imgur.com/8iI8nS0.png">
 <br>
